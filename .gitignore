@@ -1,3 +1,7 @@
 # myrnn/drive
 /myrnn/drive/data/.ipynb_checkpoints/
 /myrnn/drive/data/*.csv
+
+
+# mycnn/resnet-cifar10-caffe
+/mycnn/resnet-cifar10-caffe/data
