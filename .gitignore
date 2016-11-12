@@ -11,3 +11,13 @@
 
 #tutorials
 /tutorials/.ipynb_checkpoints
+/tutorials/tensorflow/model*
+/tutorials/tensorflow/*.pyc
+/tutorials/temp
+/tutorials/mnist_logs/
+/tutorials/tensorflow/.ipynb_checkpoints/
+/tutorials/tensorflow/MNIST_data/
+/tutorials/tensorflow/ch05-2-frequency-response.ipynb
+/tutorials/tensorflow/checkpoint
+
+
